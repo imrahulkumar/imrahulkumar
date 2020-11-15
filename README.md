@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 You can also check out my portfolio at [http://resume-rahul.surge.sh/](http://resume-rahul.surge.sh/)
+ <!---     - 👨‍💻 You can also check out my portfolio at [http://resume-rahul.surge.sh/]()    --->
 
 - 📝 I regulary write articles on [http://dynamic-component.surge.sh/](http://dynamic-component.surge.sh/)
 
