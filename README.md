@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **React Native**
 
- <!---     - 👨‍💻 You can also check out my portfolio at [http://resume-rahul.surge.sh/]()    --->
+ <!---     - 👨‍💻 You can also check out my portfolio at []()    --->
 
-- 📝 I regulary write articles on [http://dynamic-component.surge.sh/](http://dynamic-component.surge.sh/)
+- 📝 I regulary write articles on [click here](http://dynamic-component.surge.sh/)
 
 - 💬 Ask me about **MEAN Stack**
 
 - 📫 How to reach me **rahulgbu13@gmail.com**
 
-- 📄 Know about my experiences [http://about-rahul.surge.sh/](http://about-rahul.surge.sh/)
+- 📄 Know about my experiences [click here](http://about-rahul.surge.sh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
