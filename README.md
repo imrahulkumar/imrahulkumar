@@ -34,7 +34,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: Indian Standard time (IST)
 
 💬 Programming Languages: 
 JavaScript               13 hrs 47 mins      ██████████████████████░░░   89.64% 
