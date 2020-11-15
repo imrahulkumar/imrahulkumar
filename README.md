@@ -42,7 +42,11 @@
 </a>  
 
 <a href="https://github.com/Rahul151995/NodeTypeScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=NodeTypeScript&language=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=NodeTypeScript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+<a href="https://github.com/Rahul151995/nodeTsGeoLocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=nodeTsGeoLocation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
 
