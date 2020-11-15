@@ -31,6 +31,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul151995&show_icons=true&locale=en" alt="rahul151995" /></p>
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+JavaScript               13 hrs 47 mins      ██████████████████████░░░   89.64% 
+NodeJs                   08 hrs 27 mins      ███████████████░░░░░░░░░░  3.01% 
+Angular 2+               06 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   2.35% 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71% 
+
+```
+
+
+
 ## &#x1f4c8; Recent Work
 
 <a href="https://github.com/Rahul151995/chatRoomAngular">
