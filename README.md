@@ -29,3 +29,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul151995&show_icons=true&locale=en&layout=compact" alt="rahul151995" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul151995&show_icons=true&locale=en" alt="rahul151995" /></p>
+
+
+## &#x1f4c8; Recent Work
+
+<a href="https://github.com/Rahul151995/chatRoomAngular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=chatRoomAngular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
+
+
+
