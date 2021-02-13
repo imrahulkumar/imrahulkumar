@@ -80,6 +80,10 @@ Other                    15 mins             ░░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=erm-backend&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/Rahul151995/git-command">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=git-command&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 
 
