@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate MEAN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul151995&label=Profile%20views&color=0e75b6&style=flat" alt="rahul151995" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imrahulkumar&label=Profile%20views&color=0e75b6&style=flat" alt="imrahulkumar" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -51,9 +51,9 @@
 <!-- MY TECH STACK END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul151995&show_icons=true&locale=en&layout=compact" alt="rahul151995" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrahulkumar&show_icons=true&locale=en&layout=compact" alt="imrahulkumar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul151995&show_icons=true&locale=en" alt="rahul151995" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrahulkumar&show_icons=true&locale=en" alt="imrahulkumar" /></p>
 
 
 📊 **This Week I Spent My Time On** 
@@ -73,60 +73,60 @@ Other                    15 mins             ░░░░░░░░░░░�
 
 ## &#x1f4c8; Recent Work
 
-<a href="https://github.com/Rahul151995/chatRoomAngular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=chatRoomAngular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/chatRoomAngular">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=chatRoomAngular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/chatRoomNode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=chatRoomNode&language=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/chatRoomNode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=chatRoomNode&language=javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
-<a href="https://github.com/Rahul151995/NodeTypeScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=NodeTypeScript&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/NodeTypeScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=NodeTypeScript&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
-<a href="https://github.com/Rahul151995/nodeTsGeoLocation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=nodeTsGeoLocation&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/nodeTsGeoLocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=nodeTsGeoLocation&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
-<a href="https://github.com/Rahul151995/DataStructureInJavaScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=DataStructureInJavaScript&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/DataStructureInJavaScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=DataStructureInJavaScript&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/Rahul151995/html-css3-bootstrap4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=html-css3-bootstrap4&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/html-css3-bootstrap4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=html-css3-bootstrap4&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/Rahul151995/FlexBox-boostrap-5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=FlexBox-boostrap-5&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/FlexBox-boostrap-5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=FlexBox-boostrap-5&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/erm-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=erm-backend&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/erm-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=erm-backend&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/git-command">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=git-command&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/git-command">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=git-command&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/nodeTsGeoLocation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=nodeTsGeoLocation&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/nodeTsGeoLocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=nodeTsGeoLocation&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/UI-Elements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=UI-Elements&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/UI-Elements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=UI-Elements&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/UI-Elements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=ngrx-state-management&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/UI-Elements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=ngrx-state-management&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/UI-Elements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=reactNativeApp&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/UI-Elements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=reactNativeApp&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/Rahul151995/UI-Elements">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul151995&repo=Angular-Test-Jasmine-Karma&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/imrahulkumar/UI-Elements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=Angular-Test-Jasmine-Karma&discription_hide=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
