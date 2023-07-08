@@ -145,7 +145,9 @@ Other                    15 mins             ░░░░░░░░░░░�
  <a href="https://github.com/imrahulkumar/React-Context" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Context&theme=dracula" />
 </a> 
-
+<a href="https://github.com/imrahulkumar/React-Redux" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Redux&theme=dracula" />
+</a> 
  
 </details>
 
