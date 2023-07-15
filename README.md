@@ -148,6 +148,9 @@ Other                    15 mins             ░░░░░░░░░░░�
  <a href="https://github.com/imrahulkumar/React-Optimize-Hook" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Optimize-Hook&theme=dracula" />
 </a> 
+ <a href="https://github.com/imrahulkumar/React-Route" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Route&theme=dracula" />
+</a> 
  
 </details>
 
