@@ -155,6 +155,10 @@ Other                    15 mins             ░░░░░░░░░░░�
  <a href="https://github.com/imrahulkumar/React-Hook" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Hook&theme=dracula" />
 </a> 
+
+ <a href="https://github.com/imrahulkumar/React-Classy" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imrahulkumar&repo=React-Classy&theme=dracula" />
+</a> 
  
 </details>
 
